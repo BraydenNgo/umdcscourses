@@ -1,0 +1,9 @@
+.Grid {
+    display: flex;
+    gap: 5rem;
+    flex-wrap: wrap;
+    padding-top: 10rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}

@@ -40,3 +40,28 @@
 .read-the-docs {
   color: #888;
 }
+
+.header{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0; 
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+a {
+  background-color: grey;
+}
+
+.csLogo{
+  height: 6.2rem;
+}
+
