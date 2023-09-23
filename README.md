@@ -29,7 +29,7 @@ Here's a walkthrough of implemented required features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <img src="src/images/Kapture 2023-09-22 at 20.52.25.gif">
 
 ## Notes
