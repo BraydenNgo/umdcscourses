@@ -30,7 +30,7 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<img src="/Users/brayd/project_1_web_102/umdcscourses/src/images/Kapture 2023-09-22 at 20.52.25.gif">
+<img src="src/images/Kapture 2023-09-22 at 20.52.25.gif">
 
 ## Notes
 
